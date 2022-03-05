@@ -1,8 +1,8 @@
 ![microverse-logo](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Decode Morse code Ruby Practice
+# Ruby Enumerable Module
 
-> This is a practice project to understand better how ruby language works.
+> This is a custom Enumerable Ruby module excercise for Microverse.
 
 ## Built With
 
